@@ -121,3 +121,7 @@ es.index(index='devportal',
 ```
 
 You might also need to take care of removing documents that no longer exist.
+
+------
+
+_Elasticsearch is a trademark of Elasticsearch B.V., registered in the U.S. and in other countries._

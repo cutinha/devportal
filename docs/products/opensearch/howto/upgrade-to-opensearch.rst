@@ -1,7 +1,7 @@
-Upgrade to OpenSearch
-=====================
+Upgrade to OpenSearch®
+======================
 
-For current Aiven for Elasticsearch customers, we recommend you upgrade as soon as possible so that we can continue to support your database requirements. Depending on your needs, the various options for testing and upgrading the service are detailed here. The upgrade does not require downtime, and any Kibana service alongside Elasticsearch will be upgraded to OpenSearch Dashboards at the same time.
+For current Aiven for Elasticsearch customers, we recommend you upgrade as soon as possible so that we can continue to support your database requirements. Depending on your needs, the various options for testing and upgrading the service are detailed here. The upgrade does not require downtime, and any Kibana service alongside Elasticsearch will be upgraded to OpenSearch® Dashboards at the same time.
 
 .. warning::
     We strongly recommend that you avoid upgrading any library dependencies as part of this upgrade process. Keep your current dependencies at their current versions.
@@ -39,3 +39,8 @@ To perform the upgrade, visit the service overview page and choose the button la
 
 When the operation completes, your Aiven for OpenSearch service should continue to operate much as your Elasticsearch service did.
 
+
+
+------
+
+*Elasticsearch is a trademark of Elasticsearch B.V., registered in the U.S. and in other countries.*

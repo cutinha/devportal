@@ -1,7 +1,7 @@
 IOPS capability of plans
 ========================
 
-When creating or updating an Aiven service, you can choose the plan, driving the number of resources available. The type of virtual machines created depends on the cloud provider chosen, and each one has different **IOPS** (Input/output Operations Per Second) limits. This reference provides the mapping between the common plans in Aiven for PostgreSQL and the related virtual machine types in the major clouds.
+When creating or updating an Aiven service, you can choose the plan, driving the number of resources available. The type of virtual machines created depends on the cloud provider chosen, and each one has different **IOPS** (Input/output Operations Per Second) limits. This reference provides the mapping between the common plans in Aiven for PostgreSQL® and the related virtual machine types in the major clouds.
 
 Hobbyist
 ''''''''

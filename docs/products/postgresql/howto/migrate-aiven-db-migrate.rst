@@ -1,4 +1,4 @@
-Migrate to Aiven for PostgreSQL with ``aiven-db-migrate``
+Migrate to Aiven for PostgreSQL® with ``aiven-db-migrate``
 ===========================================================
 
 The ``aiven-db-migrate`` tool is an open source project available on `GitHub <https://github.com/aiven/aiven-db-migrate>`_, and it is the preferred way to perform the migration. 
@@ -10,7 +10,7 @@ Logical replication is the default method which keeps the two databases synchron
 If the preconditions for logical replication are not met for a database, the migration falls back to using ``pg_dump``.
 
 .. Note::
-    You can use logical replication when migrating from AWS RDS PostgreSQL 10+ and `Google CloudSQL PostgreSQL <https://cloud.google.com/sql/docs/release-notes#August_30_2021>`_.
+    You can use logical replication when migrating from AWS RDS PostgreSQL® 10+ and `Google CloudSQL PostgreSQL <https://cloud.google.com/sql/docs/release-notes#August_30_2021>`_.
 
 What you'll need
 ----------------
@@ -20,7 +20,7 @@ What you'll need
 
 In order to use the **logical replication** method, you'll need the following:
     
-* PostgreSQL version is 10 or higher.
+* PostgreSQL® version is 10 or higher.
 * Superuser access credentials to the source cluster or the ``aiven-extras`` extension installed. The extension allows you to perform publish/subscribe-style logical replication without a superuser account, and it is preinstalled on Aiven for PostgreSQL servers. See `Aiven Extras on GitHub <https://github.com/aiven/aiven-extras>`_.
 * An available replication slot on the destination cluster for each database migrated from the source cluster.
 

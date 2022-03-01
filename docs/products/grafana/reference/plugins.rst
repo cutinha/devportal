@@ -1,7 +1,7 @@
 List of available plugins
 =========================
 
-The following plugins are available in all installations of Aiven for Grafana, and they are updated at intervals. To request additional plugins, please reach out to our support team at ``support@aiven.io``.
+The following plugins are available in all installations of Aiven for Grafana®, and they are updated at intervals. To request additional plugins, please reach out to our support team at ``support@aiven.io``.
 
 - AJAX
 - Alert list
@@ -27,7 +27,7 @@ The following plugins are available in all installations of Aiven for Grafana, a
 - Graphite
 - Heatmap
 - Histogram
-- InfluxDB
+- InfluxDB®
 - Instana
 - Jaeger
 - Logs
@@ -41,7 +41,7 @@ The following plugins are available in all installations of Aiven for Grafana, a
 - Pie chart
 - Plotly
 - Plugin list
-- PostgreSQL
+- PostgreSQL®
 - Prometheus
 - SimpleJson
 - Singlestat Math
@@ -58,3 +58,8 @@ The following plugins are available in all installations of Aiven for Grafana, a
 - Welcome
 - Zabbix
 - Zipkin
+
+
+------
+
+*Elasticsearch is a trademark of Elasticsearch B.V., registered in the U.S. and in other countries.*
