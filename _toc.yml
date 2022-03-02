@@ -54,6 +54,7 @@ entries:
         entries:
         - glob: docs/tools/terraform/*
       - file: docs/tools/kubernetes
+        title: Aiven Operator for Kubernetes
 
   # -------- PRODUCT-SPECIFIC --------
   - file: docs/products/kafka/index
@@ -226,6 +227,7 @@ entries:
           - glob: docs/products/postgresql/reference/*
 
   - file: docs/products/flink/index
+    title: Apache Flink
     entries:
       - file: docs/products/flink/getting-started
       - file: docs/products/flink/concepts
@@ -258,6 +260,7 @@ entries:
           - glob: docs/products/flink/reference/*
 
   - file: docs/products/clickhouse/index
+    title: ClickHouse
     entries:
       - file: docs/products/clickhouse/getting-started
       - file: docs/products/clickhouse/sample-dataset
